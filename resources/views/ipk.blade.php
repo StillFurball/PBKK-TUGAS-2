@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Kalkulator IPK | Ahmad.')
+@section('title', 'Kalkulator IPK ')
 @section('content')
 <section class="page">
     <article class="card">

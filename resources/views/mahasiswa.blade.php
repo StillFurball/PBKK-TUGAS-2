@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Profil Mahasiswa | Ahmad.')
+@section('title', 'Profil Mahasiswa ')
 @section('content')
-<section class="page"><article class="card"><div class="eyebrow">PROFIL AKADEMIS</div><h1>Rafi Attar Maulana</h1><p>NRP <strong>{{ $nrp }}</strong>. Mahasiswa Institut Teknologi Sepuluh Nopember yang memiliki minat pada AI, platform engineering, dan produk digital.</p></article></section>
+<section class="page"><article class="card"><div class="eyebrow">PROFIL AKADEMIS</div><h1>Rafi Attar Maulana</h1><p>NRP <strong>{{ $nrp }}</strong>. Mahasiswa Institut Teknologi Sepuluh Nopember yang memiliki ketertarikan mendalam pada artificial intelligence, platform engineering, dan pengembangan produk digital. Saya senang mempelajari bagaimana teknologi dapat dirancang menjadi solusi yang bermanfaat, efisien, dan mudah digunakan. Selain memperkuat kemampuan teknis dalam pemrograman, pengelolaan infrastruktur, serta pengembangan sistem, saya juga tertarik pada proses merancang produk dari tahap ide hingga dapat digunakan oleh pengguna. Dengan semangat belajar yang berkelanjutan, saya terus berusaha mengembangkan keterampilan, membangun pengalaman melalui berbagai proyek, dan berkolaborasi untuk menghasilkan karya yang berdampak.</p></article></section>
 @endsection

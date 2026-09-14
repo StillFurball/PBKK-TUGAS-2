@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Platform Agentic AI | Ahmad.')
+@section('title', 'Platform Agentic AI ')
 @section('content')
 @php
     $tujuanList = [
